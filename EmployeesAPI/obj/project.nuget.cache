@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OH72Z2Hu3PrcWRqatVc9sBshTWv0UrKhkPvWuYO1MDbRB6HBTSE/2lv9mz0KAv1ttc+6gS0tF3xiOkcnXNeMig==",
+  "dgSpecHash": "9kTNaJQ3bH2MJD7GaDnSNf8zylaRcwHIgfQpRL9aju//UB/9bj3xwN0WwaMvQvQ9h1VIMhRdLbZ2/T174rP1Aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jeffeotto\\source\\repos\\EmployeesAPI\\EmployeesAPI\\EmployeesAPI.csproj",
+  "projectFilePath": "C:\\Users\\jeffeotto\\source\\repos\\EmployeesDBPersistance\\EmployeesDBPersistance\\EMployeesAPI\\EmployeesAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeffeotto\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\jeffeotto\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeffeotto\\source\\repos\\EmployeesAPI\\EmployeesAPI\\EmployeesAPI.csproj": {}
+    "C:\\Users\\jeffeotto\\source\\repos\\EmployeesDBPersistance\\EmployeesDBPersistance\\EMployeesAPI\\EmployeesAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeffeotto\\source\\repos\\EmployeesAPI\\EmployeesAPI\\EmployeesAPI.csproj": {
+    "C:\\Users\\jeffeotto\\source\\repos\\EmployeesDBPersistance\\EmployeesDBPersistance\\EMployeesAPI\\EmployeesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeffeotto\\source\\repos\\EmployeesAPI\\EmployeesAPI\\EmployeesAPI.csproj",
+        "projectUniqueName": "C:\\Users\\jeffeotto\\source\\repos\\EmployeesDBPersistance\\EmployeesDBPersistance\\EMployeesAPI\\EmployeesAPI.csproj",
         "projectName": "EmployeesAPI",
-        "projectPath": "C:\\Users\\jeffeotto\\source\\repos\\EmployeesAPI\\EmployeesAPI\\EmployeesAPI.csproj",
+        "projectPath": "C:\\Users\\jeffeotto\\source\\repos\\EmployeesDBPersistance\\EmployeesDBPersistance\\EMployeesAPI\\EmployeesAPI.csproj",
         "packagesPath": "C:\\Users\\jeffeotto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeffeotto\\source\\repos\\EmployeesAPI\\EmployeesAPI\\obj\\",
+        "outputPath": "C:\\Users\\jeffeotto\\source\\repos\\EmployeesDBPersistance\\EmployeesDBPersistance\\EMployeesAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

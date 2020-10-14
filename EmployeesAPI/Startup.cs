@@ -33,7 +33,10 @@ namespace EmployeesAPI
             });
 
             services.AddDbContext<EmployeeContext>(opt =>
-             opt.UseInMemoryDatabase("Employees"));
+            opt.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+           // services.AddDbContext<EmployeeContext>(opt =>
+             //opt.UseInMemoryDatabase("Employees"));
 
            
 
